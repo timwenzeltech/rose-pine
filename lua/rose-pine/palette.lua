@@ -1,11 +1,11 @@
 local options = require("rose-pine.config").options
 local variants = {
 	main = {
-		_nc = "#191724",
+		_nc = "#0F0E15",
 		base = "#191724",
 		surface = "#1f1d2e",
 		overlay = "#26233a",
-		muted = "#6e6a86",
+		muted = "#0F0E15",
 		subtle = "#908caa",
 		text = "#e0def4",
 		love = "#eb6f92",
